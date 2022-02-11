@@ -1,0 +1,11 @@
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\bin\Debug\PingPong.exe.config
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\bin\Debug\PingPong.exe
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\bin\Debug\PingPong.pdb
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\obj\Debug\PingPong.exe
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\obj\Debug\PingPong.pdb
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\obj\Debug\PingPong.PlayBoard.resources
+D:\code\ОП\ОП 2 семак\Доп2\PingPong\obj\Debug\PingPong.Start.resources
